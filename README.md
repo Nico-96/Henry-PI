@@ -1,11 +1,11 @@
-# fastapi
+# Fastapi
 
-API development and Heroku deploy using **FastAPI framework** and data extraction from **SQLite** local hosted database.
+API development using **FastAPI framework** and data extraction from **MySQL** local hosted database.
 
 ## General Steps
 
 1. Extract Transform and Load (ETL)
-2. Local Database creation in SQLite.
+2. Local Database creation in MySQL.
 3. Create connection with Python libraries (SQLAlchemy, Pydantic)
 4. Model & Schema development in SQLAlchemy
 5. main file structuring
